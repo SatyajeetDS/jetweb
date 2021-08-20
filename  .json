@@ -1,0 +1,411 @@
+[
+    {
+        "ID": 1,
+        "T": "ACT  ",
+        "NPU": "ID/ACT",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/10/01/15/38/plan-3716541__340.jpg"
+    },
+    {
+        "ID": 2,
+        "T": "AFFECTION  ",
+        "NPU": "ID/AFFECTION",
+        "THUMB": "https://cdn.pixabay.com/photo/2014/05/18/17/53/couple-347220__340.jpg"
+    },
+    {
+        "ID": 3,
+        "T": "ART  ",
+        "NPU": "ID/ART",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/12/28/16/18/bicycle-3045580__340.jpg"
+    },
+    {
+        "ID": 4,
+        "T": "BEAUTY  ",
+        "NPU": "ID/BEAUTY",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/08/07/16/39/girl-2605526__340.jpg"
+    },
+    {
+        "ID": 5,
+        "T": "BOOKS  ",
+        "NPU": "ID/BOOKS",
+        "THUMB": "https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418__340.jpg"
+    },
+    {
+        "ID": 6,
+        "T": "CHILDHOOD  ",
+        "NPU": "ID/CHILDHOOD",
+        "THUMB": "https://cdn.pixabay.com/photo/2014/09/26/09/33/girls-462072__340.jpg"
+    },
+    {
+        "ID": 7,
+        "T": "COURAGE  ",
+        "NPU": "ID/COURAGE",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/03/06/12/03/balance-2121323__340.jpg"
+    },
+    {
+        "ID": 8,
+        "T": "CREATION  ",
+        "NPU": "ID/CREATION",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/12/18/13/59/create-3026190__340.jpg"
+    },
+    {
+        "ID": 9,
+        "T": "DEATH  ",
+        "NPU": "ID/DEATH",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/02/28/20/56/man-2106810__340.jpg"
+    },
+    {
+        "ID": 10,
+        "T": "DESIRE  ",
+        "NPU": "ID/DESIRE",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/01/31/20/54/signs-1172208__340.jpg"
+    },
+    {
+        "ID": 11,
+        "T": "DREAMS  ",
+        "NPU": "ID/DREAMS",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/02/04/12/25/man-2037255__340.jpg"
+    },
+    {
+        "ID": 12,
+        "T": "ETERNITY  ",
+        "NPU": "ID/ETERNITY",
+        "THUMB": "https://cdn.pixabay.com/photo/2020/02/04/05/34/life-4817334__340.png"
+    },
+    {
+        "ID": 13,
+        "T": "EXISTENCE  ",
+        "NPU": "ID/EXISTENCE",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/10/15/01/17/stickies-2852375__340.jpg"
+    },
+    {
+        "ID": 14,
+        "T": "FREEDOM  ",
+        "NPU": "ID/FREEDOM",
+        "THUMB": "https://cdn.pixabay.com/photo/2014/12/16/22/25/woman-570883__340.jpg"
+    },
+    {
+        "ID": 15,
+        "T": "FRIENDSHIP  ",
+        "NPU": "ID/FRIENDSHIP",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/12/19/10/16/hands-1917895__340.png"
+    },
+    {
+        "ID": 16,
+        "T": "GENIUS  ",
+        "NPU": "ID/GENIUS",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/12/27/06/38/albert-einstein-1933340__340.jpg"
+    },
+    {
+        "ID": 17,
+        "T": "GOD",
+        "NPU": "ID/GOD",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/03/27/15/16/man-2179326__340.jpg"
+    },
+    {
+        "ID": 18,
+        "T": "HAPPINESS  ",
+        "NPU": "ID/HAPPINESS",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/06/18/18/26/holi-2416686__340.jpg"
+    },
+    {
+        "ID": 19,
+        "T": "HEART  ",
+        "NPU": "ID/HEART",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/07/19/03/34/baby-feet-1527456__340.jpg"
+    },
+    {
+        "ID": 20,
+        "T": "HOPE  ",
+        "NPU": "ID/HOPE",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/11/29/04/50/blur-1867402__340.jpg"
+    },
+    {
+        "ID": 21,
+        "T": "HUMAN  ",
+        "NPU": "ID/HUMAN",
+        "THUMB": "https://cdn.pixabay.com/photo/2015/03/14/19/45/suit-673697__340.jpg"
+    },
+    {
+        "ID": 22,
+        "T": "ILLUSION  ",
+        "NPU": "ID/ILLUSION",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/09/13/19/03/starburst-2746552__340.png"
+    },
+    {
+        "ID": 23,
+        "T": "IMPERFECTION  ",
+        "NPU": "ID/IMPERFECTION",
+        "THUMB": "https://cdn.pixabay.com/photo/2015/09/20/11/56/perfect-948197__340.jpg"
+    },
+    {
+        "ID": 24,
+        "T": "INFINITE  ",
+        "NPU": "ID/INFINITE",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/05/30/16/35/galaxy-2357504__340.jpg"
+    },
+	 {
+        "ID": 64,
+        "T": "Inspirational",
+        "NPU": "ID/inspire2",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/06/11/07/42/quotes-1449691__340.jpg"
+    },
+	{
+        "ID": 67,
+        "T": "Intelligent",
+        "NPU": "ID/int4",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/01/25/10/46/businessman-3105873__340.jpg"
+    },
+    {
+        "ID": 25,
+        "T": "JEALOUSY  ",
+        "NPU": "ID/JEALOUSY",
+        "THUMB": "https://cdn.pixabay.com/photo/2019/08/21/17/14/eye-4421552__340.jpg"
+    },
+    {
+        "ID": 26,
+        "T": "KNOWLEDGE  ",
+        "NPU": "ID/KNOWLEDGE",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/11/21/15/28/brain-1845962__340.jpg"
+    },
+    {
+        "ID": 27,
+        "T": "LAUGH  ",
+        "NPU": "ID/LAUGH",
+        "THUMB": "https://cdn.pixabay.com/photo/2015/01/18/13/31/children-602967__340.jpg"
+    },
+    {
+        "ID": 28,
+        "T": "LIES  ",
+        "NPU": "ID/LIES",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/09/08/03/51/corruption-2727571__340.png"
+    },
+    {
+        "ID": 29,
+        "T": "LIFE  ",
+        "NPU": "ID/LIFE",
+        "THUMB": "https://cdn.pixabay.com/photo/2015/07/27/19/47/turtle-863336__340.jpg"
+    },
+    {
+        "ID": 30,
+        "T": "LITERATURE  ",
+        "NPU": "ID/LITERATURE",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/07/10/10/29/girl-3528292__340.jpg"
+    },
+    {
+        "ID": 31,
+        "T": "LOGIC  ",
+        "NPU": "ID/LOGIC",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/02/13/08/54/brain-2062055__340.jpg"
+    },
+    {
+        "ID": 32,
+        "T": "LONELINESS  ",
+        "NPU": "ID/LONELINESS",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/08/07/01/25/model-2598393__340.jpg"
+    },
+    {
+        "ID": 33,
+        "T": "LOVE  ",
+        "NPU": "ID/LOVE",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/11/19/12/25/art-1839006__340.jpg"
+    },
+    {
+        "ID": 34,
+        "T": "MARRIAGE  ",
+        "NPU": "ID/MARRIAGE",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/12/27/15/54/couple-1934204__340.jpg"
+    },
+    {
+        "ID": 35,
+        "T": "MELANCHOLY  ",
+        "NPU": "ID/MELANCHOLY",
+        "THUMB": "https://cdn.pixabay.com/photo/2019/05/22/00/48/fantasy-4220505__340.jpg"
+    },
+    {
+        "ID": 36,
+        "T": "MEMORIES  ",
+        "NPU": "ID/MEMORIES",
+        "THUMB": "https://cdn.pixabay.com/photo/2014/02/02/17/40/photographs-256888__340.jpg"
+    },
+	
+	  {
+        "ID": 63,
+        "T": "Motivational",
+        "NPU": "ID/moti1",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/01/24/17/33/light-bulb-3104355__340.jpg"
+    },
+    {
+        "ID": 37,
+        "T": "MOVING ON  ",
+        "NPU": "ID/MOVING ON",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/03/27/19/12/man-1283748__340.jpg"
+    },
+    {
+        "ID": 38,
+        "T": "MUSIC  ",
+        "NPU": "ID/MUSIC",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/01/14/06/09/woman-1139397__340.jpg"
+    },
+    {
+        "ID": 39,
+        "T": "NATURE   ",
+        "NPU": "ID/NATURE",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/08/09/17/34/woman-1581202__340.jpg"
+    },
+    {
+        "ID": 40,
+        "T": "PASSION  ",
+        "NPU": "ID/PASSION",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/03/09/15/30/shoes-1246691__340.jpg"
+    },
+    {
+        "ID": 41,
+        "T": "PHILOSOPHY  ",
+        "NPU": "ID/PHILOSOPHY",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/08/18/09/41/head-3614463__340.jpg"
+    },
+    {
+        "ID": 42,
+        "T": "POETRY  ",
+        "NPU": "ID/POETRY",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/03/19/18/20/business-3240767__340.jpg"
+    },
+    {
+        "ID": 43,
+        "T": "PRAISE  ",
+        "NPU": "ID/PRAISE",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/08/05/21/57/people-2585962__340.jpg"
+    },
+	{
+        "ID": 65,
+        "T": "Psychological",
+        "NPU": "ID/psy5",
+        "THUMB": "https://cdn.pixabay.com/photo/2019/01/04/09/19/depression-3912748__340.jpg"
+    },
+    {
+        "ID": 44,
+        "T": "RELIGION ",
+        "NPU": "ID/RELIGION",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/11/18/13/53/idol-1834688__340.jpg"
+    },
+    {
+        "ID": 45,
+        "T": "RIGHT  ",
+        "NPU": "ID/RIGHT",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/12/01/19/41/ethics-2991600__340.jpg"
+    },
+    {
+        "ID": 46,
+        "T": "SADNESS  ",
+        "NPU": "ID/SADNESS",
+        "THUMB": "https://cdn.pixabay.com/photo/2014/11/23/10/49/accidental-slip-542551__340.jpg"
+    },
+    {
+        "ID": 47,
+        "T": "SMILE  ",
+        "NPU": "ID/SMILE",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/01/24/19/49/people-3104635__340.jpg"
+    },
+    {
+        "ID": 48,
+        "T": "SORROW  ",
+        "NPU": "ID/SORROW",
+        "THUMB": "https://cdn.pixabay.com/photo/2020/08/26/18/43/sadness-5520345__340.jpg"
+    },
+    {
+        "ID": 49,
+        "T": "SOUL  ",
+        "NPU": "ID/SOUL",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/01/28/13/24/portrait-3113651__340.jpg"
+    },
+    {
+        "ID": 50,
+        "T": "SPIRIT  ",
+        "NPU": "ID/SPIRIT",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/10/13/14/15/fantasy-2847724__340.jpg"
+    },
+    {
+        "ID": 51,
+        "T": "STUPIDITY  ",
+        "NPU": "ID/STUPIDITY",
+        "THUMB": "https://cdn.pixabay.com/photo/2014/02/17/18/41/the-horse-268463__340.jpg"
+    },
+    {
+        "ID": 52,
+        "T": "SUCCESS  ",
+        "NPU": "ID/SUCCESS",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/11/08/05/20/sunset-1807524__340.jpg"
+    },
+    {
+        "ID": 53,
+        "T": "SUFFERING  ",
+        "NPU": "ID/SUFFERING",
+        "THUMB": "https://cdn.pixabay.com/photo/2014/11/02/09/15/man-513529__340.jpg"
+    },
+    {
+        "ID": 54,
+        "T": "TALENT  ",
+        "NPU": "ID/TALENT",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/09/17/12/30/board-3683740__340.jpg"
+    },
+    {
+        "ID": 55,
+        "T": "TEARS  ",
+        "NPU": "ID/TEARS",
+        "THUMB": "https://cdn.pixabay.com/photo/2019/10/15/11/51/tears-4551435__340.jpg"
+    },
+    {
+        "ID": 56,
+        "T": "THINKING  ",
+        "NPU": "ID/THINKING",
+        "THUMB": "https://cdn.pixabay.com/photo/2015/11/13/20/15/light-bulb-1042480__340.jpg"
+    },
+	{
+        "ID": 66,
+        "T": "Thoughtful  ",
+        "NPU": "ID/Thoughtful3",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/01/19/14/42/woman-1148923__340.jpg"
+    },
+    {
+        "ID": 57,
+        "T": "TIME  ",
+        "NPU": "ID/TIME",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/02/24/20/39/clock-3179167__340.jpg"
+    },
+    {
+        "ID": 58,
+        "T": "TRUTH  ",
+        "NPU": "ID/TRUTH",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/04/01/08/54/deceive-1299043__340.png"
+    },
+    {
+        "ID": 59,
+        "T": "VIRTUE  ",
+        "NPU": "ID/VIRTUE",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/08/06/10/19/german-virtues-3587229__340.jpg"
+    },
+    {
+        "ID": 60,
+        "T": "WISDOM  ",
+        "NPU": "ID/WISDOM",
+        "THUMB": "https://cdn.pixabay.com/photo/2019/04/17/20/37/woman-4135301__340.jpg"
+    },
+    {
+        "ID": 61,
+        "T": "WOMEN  ",
+        "NPU": "ID/WOMEN",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/04/08/12/59/girlfriends-2213259__340.jpg"
+    },
+    {
+        "ID": 62,
+        "T": "WORK",
+        "NPU": "ID/WORK",
+        "THUMB": "https://cdn.pixabay.com/photo/2017/10/10/21/49/youtuber-2838945__340.jpg"
+    },
+    {
+        "ID": 68,
+        "T": "Coming Soon",
+        "NPU": "ID/int4",
+        "THUMB": "2637"
+    }
+]
