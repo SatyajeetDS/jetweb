@@ -1,0 +1,502 @@
+[
+    {
+        "ID": 2238,
+        "Quotes": "Real difficulties can be overcome, it is only the imaginary ones that are unconquerable…",
+        "Author": "Theodore N. Vail"
+    },
+    {
+        "ID": 2239,
+        "Quotes": "Worrying is like paying a debt you don't owe…",
+        "Author": "Mark Twain"
+    },
+    {
+        "ID": 2240,
+        "Quotes": "He who hasn't tasted bitter things hasn't earned sweet things…",
+        "Author": "Gottfried Wilhelm Leibniz"
+    },
+    {
+        "ID": 2241,
+        "Quotes": "Time flies over us, but leaves its shadow behind…",
+        "Author": "Nathaniel Hawthorne"
+    },
+    {
+        "ID": 2242,
+        "Quotes": "No amount of evidence will ever persuade an idiot…",
+        "Author": "Mark Twain"
+    },
+    {
+        "ID": 2243,
+        "Quotes": "The door of the human heart, can only be opened from the inside…",
+        "Author": "William Holman Hunt"
+    },
+    {
+        "ID": 2244,
+        "Quotes": "I'll go anywhere as long as it's forward…",
+        "Author": "David Livingstone"
+    },
+    {
+        "ID": 2245,
+        "Quotes": "Every drop of rain hits its appointed target…",
+        "Author": "John Newton"
+    },
+    {
+        "ID": 2246,
+        "Quotes": "If you light a lantern for another, it will also brighten your own way…",
+        "Author": "Nichiren"
+    },
+    {
+        "ID": 2247,
+        "Quotes": "The more certain our knowledge the less we know…",
+        "Author": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+        "ID": 2248,
+        "Quotes": "The money you have gives you freedom;the money you pursue enslaves you…",
+        "Author": "Jean-Jacques Rousseau"
+    },
+    {
+        "ID": 2249,
+        "Quotes": "The large majority of people are asleep and do not wish to wake up…",
+        "Author": "Vincent van Gogh"
+    },
+    {
+        "ID": 2250,
+        "Quotes": "Hatred does not cease by hatred, but only by love…",
+        "Author": "Gautama The Lord Buddha"
+    },
+    {
+        "ID": 2251,
+        "Quotes": "God gave us mouths that close and ears that don't.. that should tell us something…",
+        "Author": "Eugene O'Neill"
+    },
+    {
+        "ID": 2252,
+        "Quotes": "What a terrible era in which idiots govern the blind…",
+        "Author": "William Shakespeare"
+    },
+    {
+        "ID": 2253,
+        "Quotes": "Who loves a lot, forgives a lot…",
+        "Author": "Amado Nervo"
+    },
+    {
+        "ID": 2254,
+        "Quotes": "Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which, if you will sit down quietly, may alight upon you…",
+        "Author": "Nathaniel Hawthorne"
+    },
+    {
+        "ID": 2255,
+        "Quotes": "Sight is a faculty;seeing is an art…",
+        "Author": "George Perkins Marsh"
+    },
+    {
+        "ID": 2256,
+        "Quotes": "In every walk with nature one receives far more than he seeks…",
+        "Author": "John Muir"
+    },
+    {
+        "ID": 2257,
+        "Quotes": "Be the sun and all will see you…",
+        "Author": "Fyodor Dostoevsky"
+    },
+    {
+        "ID": 2258,
+        "Quotes": "The past attracts me, the present frightens me, because the future is death…",
+        "Author": "Guy de Maupassant"
+    },
+    {
+        "ID": 2259,
+        "Quotes": "Doing little things well is a step toward doing big things better…",
+        "Author": "Vincent van Gogh"
+    },
+    {
+        "ID": 2260,
+        "Quotes": "It is after you have lost your teeth that you can afford to buy steaks…",
+        "Author": "Pierre Auguste Renoir"
+    },
+    {
+        "ID": 2261,
+        "Quotes": "The fallen angel becomes a malignant devil…",
+        "Author": "Mary Shelley"
+    },
+    {
+        "ID": 2262,
+        "Quotes": "Every moment is a fresh beginning…",
+        "Author": "T.S. Eliot"
+    },
+    {
+        "ID": 2263,
+        "Quotes": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes…",
+        "Author": "Marcel Proust"
+    },
+    {
+        "ID": 2264,
+        "Quotes": "If one thinks that one is happy, that is enough to be happy…",
+        "Author": "Madame de La Fayette"
+    },
+    {
+        "ID": 2265,
+        "Quotes": "Why do you complain of your fate when you could so easily change it?…",
+        "Author": "Marquis de Sade"
+    },
+    {
+        "ID": 2266,
+        "Quotes": "The beginning is always today…",
+        "Author": "Mary Wollstonecraft"
+    },
+    {
+        "ID": 2267,
+        "Quotes": "Where words are restrained, the eyes often talk a great deal…",
+        "Author": "Samuel Richardson"
+    },
+    {
+        "ID": 2268,
+        "Quotes": "Sleep in peace, and wake in joy…",
+        "Author": "Walter Scott"
+    },
+    {
+        "ID": 2269,
+        "Quotes": "The more we study, the more we discover our ignorance…",
+        "Author": "Percy Bysshe Shelley"
+    },
+    {
+        "ID": 2270,
+        "Quotes": "Always laugh when you can. It is cheap medicine…",
+        "Author": "Lord Byron"
+    },
+    {
+        "ID": 2271,
+        "Quotes": "The only time you run out of chances is when you stop taking them…",
+        "Author": "Alexander Pope"
+    },
+    {
+        "ID": 2272,
+        "Quotes": "If you want to make enemies, try to change something…",
+        "Author": "Woodrow Wilson"
+    },
+    {
+        "ID": 2273,
+        "Quotes": "As soon as you trust yourself, you will know how to live…",
+        "Author": "Johann Wolfgang von Goethe"
+    },
+    {
+        "ID": 2274,
+        "Quotes": "Nothing is impossible to a willing heart…",
+        "Author": "John Heywood"
+    },
+    {
+        "ID": 2275,
+        "Quotes": "The only sure way to avoid making mistakes is to have no new ideas…",
+        "Author": "Albert Einstein"
+    },
+    {
+        "ID": 2276,
+        "Quotes": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes…",
+        "Author": "Marcel Proust"
+    },
+    {
+        "ID": 2277,
+        "Quotes": "A man would do nothing if he waited until he could do it so well that no one could find fault…",
+        "Author": "John Henry Newman"
+    },
+    {
+        "ID": 2278,
+        "Quotes": "My great concern is not whether you have failed, but whether you are content with your failure…",
+        "Author": "Abraham Lincoln"
+    },
+    {
+        "ID": 2279,
+        "Quotes": "Earth provides enough to satisfy every man's needs, but not every man's greed…",
+        "Author": "Mahatma Gandhi"
+    },
+    {
+        "ID": 2280,
+        "Quotes": "You may not get everything you dream about, but you will never get anything you don't dream about…",
+        "Author": "William James"
+    },
+    {
+        "ID": 2281,
+        "Quotes": "When men are most sure and arrogant, they are commonly the most mistaken…",
+        "Author": "David Hume"
+    },
+    {
+        "ID": 2282,
+        "Quotes": "When two forces unite, their efficiency double…",
+        "Author": "Isaac Newton"
+    },
+    {
+        "ID": 2283,
+        "Quotes": "He who fights, can lose. He who doesn't fight, has already lost…",
+        "Author": "Bertolt Brecht"
+    },
+    {
+        "ID": 2284,
+        "Quotes": "The future comes slowly, the present flies and the past stands still forever…",
+        "Author": "Friedrich Schiller"
+    },
+    {
+        "ID": 2285,
+        "Quotes": "The tree that would grow to heaven must send its roots to hell…",
+        "Author": "Frederick Nietzsche"
+    },
+    {
+        "ID": 2286,
+        "Quotes": "Confidence is the present tense of hope…",
+        "Author": "Soren Kierkegaard"
+    },
+    {
+        "ID": 2287,
+        "Quotes": "When the sufferers learn to think, then the thinkers will learn to suffer…",
+        "Author": "Karl Marx"
+    },
+    {
+        "ID": 2288,
+        "Quotes": "The freedom of all is essential to my freedom…",
+        "Author": "Mikhail Bakunin"
+    },
+    {
+        "ID": 2289,
+        "Quotes": "When deeds speak, words are nothing…",
+        "Author": "Pierre-Joseph Proudhon"
+    },
+    {
+        "ID": 2290,
+        "Quotes": "If we all think alike, no one is thinking…",
+        "Author": "Benjamin Franklin"
+    },
+    {
+        "ID": 2291,
+        "Quotes": "The most difficult thing in life is to know yourself…",
+        "Author": "Thales"
+    },
+    {
+        "ID": 2292,
+        "Quotes": "If horses had Gods, they would look like horses…",
+        "Author": "Xenophanes"
+    },
+    {
+        "ID": 2293,
+        "Quotes": "By silence, I hear other men's imperfections and conceal my own…",
+        "Author": "Zeno of Elea"
+    },
+    {
+        "ID": 2294,
+        "Quotes": "No price is too high to pay for the privilege of owning yourself…",
+        "Author": "Friedrich Nietzsche"
+    },
+    {
+        "ID": 2295,
+        "Quotes": "Attack the evil that is within yourself, rather than attacking the evil that is in others…",
+        "Author": "Confucius"
+    },
+    {
+        "ID": 2296,
+        "Quotes": "The person attempting to travel two roads at once will get nowhere…",
+        "Author": "Xunzi"
+    },
+    {
+        "ID": 2297,
+        "Quotes": "What is a holy person?. The one who is aware of others' suffering…",
+        "Author": "Kabir"
+    },
+    {
+        "ID": 2298,
+        "Quotes": "The art of knowing is knowing what to ignore…",
+        "Author": "Rumi"
+    },
+    {
+        "ID": 2299,
+        "Quotes": "Those who cry the loudest are not always the ones who are hurt the most…",
+        "Author": "Aesop"
+    },
+    {
+        "ID": 2300,
+        "Quotes": "Suspicion is the cancer of friendship…",
+        "Author": "Petrarch"
+    },
+    {
+        "ID": 2301,
+        "Quotes": "Love wants everything without condition, love has no law…",
+        "Author": "Pierre de Ronsard"
+    },
+    {
+        "ID": 2302,
+        "Quotes": "If you wish to avoid seeing a fool you must first break your mirror…",
+        "Author": "Francois Rabelais"
+    },
+    {
+        "ID": 2303,
+        "Quotes": "Pride and excess bring disaster for man…",
+        "Author": "Xunzi"
+    },
+    {
+        "ID": 2304,
+        "Quotes": "Maybe you are searching among the branches, for what only appears in the roots…",
+        "Author": "Rumi"
+    },
+    {
+        "ID": 2305,
+        "Quotes": "It is by loving and not by being loved that one can come nearest to the soul of another…",
+        "Author": "George MacDonald"
+    },
+    {
+        "ID": 2306,
+        "Quotes": "No problem can be solved from the same level of consciousness that created it…",
+        "Author": "Albert Einstein"
+    },
+    {
+        "ID": 2307,
+        "Quotes": "Have a heart that never hardens, and a temper that never tires, and a touch that never hurts…",
+        "Author": "Charles Dickens"
+    },
+    {
+        "ID": 2308,
+        "Quotes": "There are some things you learn best in calm, and some in storm…",
+        "Author": "Willa Cather"
+    },
+    {
+        "ID": 2309,
+        "Quotes": "He who has health, has hope;and he who has hope, has everything…",
+        "Author": "Thomas Carlyle"
+    },
+    {
+        "ID": 2310,
+        "Quotes": "Blossom by blossom the spring begins…",
+        "Author": "Algernon Charles Swinburne"
+    },
+    {
+        "ID": 2311,
+        "Quotes": "I'm not afraid of failure;I'm afraid of succeeding at things that don't matter…",
+        "Author": "William Carey"
+    },
+    {
+        "ID": 2312,
+        "Quotes": "One moment can change a day, one day can change a life and one life can change the world…",
+        "Author": "Gautama The Lord Buddha"
+    },
+    {
+        "ID": 2313,
+        "Quotes": "The idea does not belong to the soul;it is the soul that belongs to the idea…",
+        "Author": "Charles Sanders Peirce"
+    },
+    {
+        "ID": 2314,
+        "Quotes": "If you want the present to be different from the past, study the past…",
+        "Author": "Baruch Spinoza"
+    },
+    {
+        "ID": 2315,
+        "Quotes": "Look at life with the eyes of a child…",
+        "Author": "Kathe Kollwitz"
+    },
+    {
+        "ID": 2316,
+        "Quotes": "People love to be nice, but you must give them the chance…",
+        "Author": "Pierre-Auguste Renoir"
+    },
+    {
+        "ID": 2317,
+        "Quotes": "Life isn't about finding yourself. Life is about creating yourself…",
+        "Author": "George Bernard Shaw"
+    },
+    {
+        "ID": 2318,
+        "Quotes": "The worst that a man can do to himself is to do injustice to others…",
+        "Author": "Henrik Ibsen"
+    },
+    {
+        "ID": 2319,
+        "Quotes": "Children find everything in nothing, men find nothing in everything…",
+        "Author": "Giacomo Leopardi"
+    },
+    {
+        "ID": 2320,
+        "Quotes": "A wise man hears one word and understands two…",
+        "Author": "Edgar Allan Poe"
+    },
+    {
+        "ID": 2321,
+        "Quotes": "The sight of a coward's blood can never make a warrior tremble…",
+        "Author": "James F. Cooper"
+    },
+    {
+        "ID": 2322,
+        "Quotes": "Life isn't easy, but dreams keep you alive…",
+        "Author": "John Muir"
+    },
+    {
+        "ID": 2323,
+        "Quotes": "No amount of evidence will ever persuade an idiot…",
+        "Author": "Mark Twain"
+    },
+    {
+        "ID": 2324,
+        "Quotes": "If you shut up truth, and bury it underground, it will but grow…",
+        "Author": "Emile Zola"
+    },
+    {
+        "ID": 2325,
+        "Quotes": "The best way to make your dreams come true is to wake up…",
+        "Author": "Paul Valery"
+    },
+    {
+        "ID": 2326,
+        "Quotes": "To give pleasure to a single heart by a single act is better than a thousand heads bowing in prayer…",
+        "Author": "Mahatma Gandhi"
+    },
+    {
+        "ID": 2327,
+        "Quotes": "It is very unfair to judge of any body's conduct, without an intimate knowledge of their situation…",
+        "Author": "Jane Austen"
+    },
+    {
+        "ID": 2328,
+        "Quotes": "Love betters what is best…",
+        "Author": "William Wordsworth"
+    },
+    {
+        "ID": 2329,
+        "Quotes": "Fall if you will, but rise you must…",
+        "Author": "James Joyce"
+    },
+    {
+        "ID": 2330,
+        "Quotes": "Only great minds can afford a simple style…",
+        "Author": "Stendhal"
+    },
+    {
+        "ID": 2331,
+        "Quotes": "Revenge is a dish best served cold…",
+        "Author": "Pierre Choderlos de Laclos"
+    },
+    {
+        "ID": 2332,
+        "Quotes": "Happiest are the people who give most happiness to others…",
+        "Author": "Denis Diderot"
+    },
+    {
+        "ID": 2333,
+        "Quotes": "Forgiveness is the economy of the heart.. forgiveness saves the expense of anger, the cost of hatred, the waste of spirits…",
+        "Author": "Hannah More"
+    },
+    {
+        "ID": 2334,
+        "Quotes": "He who waits to do a great deal of good at once, will never do anything…",
+        "Author": "Samuel Johnson"
+    },
+    {
+        "ID": 2335,
+        "Quotes": "What comes from the heart goes to the heart…",
+        "Author": "Samuel Taylor Coleridge"
+    },
+    {
+        "ID": 2336,
+        "Quotes": "To stay youthful, stay useful…",
+        "Author": "John Keats"
+    },
+    {
+        "ID": 2337,
+        "Quotes": "Every cloud has a silver lining…",
+        "Author": "John Milton"
+    }
+]

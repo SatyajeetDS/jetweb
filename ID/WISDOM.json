@@ -1,0 +1,386 @@
+[
+  {
+    "ID": 100,
+    "Quotes": "One leader, one people, signifies one master and millions of slaves.",
+    "Author": "Albert Camus",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 345,
+    "Quotes": "Never lose a holy curiosity.",
+    "Author": "Albert Einstein",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 355,
+    "Quotes": "Fatigue is the best pillow.",
+    "Author": "Benjamin Franklin",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 380,
+    "Quotes": "He that won't be counseled can't be helped.",
+    "Author": "Benjamin Franklin",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 391,
+    "Quotes": "He that's secure is not safe.",
+    "Author": "Benjamin Franklin",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 747,
+    "Quotes": "Justice without force is powerless;force without justice is tyrannical.",
+    "Author": "Blaise Pascal",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 2096,
+    "Quotes": "Doubt is the vestibule through which all must pass before they can enter into the temple of wisdom.",
+    "Author": "Charles Caleb Colton",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 919,
+    "Quotes": "A day wasted on others is not wasted on one's self.",
+    "Author": "Charles Dickens",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 206,
+    "Quotes": "Rather leave the crime of the guilty unpunished than condemn the innocent.",
+    "Author": "Cicero",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 859,
+    "Quotes": "Thrift is of great revenue.",
+    "Author": "Cicero",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 866,
+    "Quotes": "Hatred is settled anger.",
+    "Author": "Cicero",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1752,
+    "Quotes": "Advice in old age is foolish;for what can be more absurd than to increase our provisions for the road the nearer we approach to our journey's end.",
+    "Author": "Cicero",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1275,
+    "Quotes": "Only the wisest and stupidest of men never change.",
+    "Author": "Confucius",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1280,
+    "Quotes": "Silence is a true friend who never betrays.",
+    "Author": "Confucius",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 842,
+    "Quotes": "Be kind whenever possible. It is always possible.",
+    "Author": "Dalai Lama",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 560,
+    "Quotes": "Wars are caused by undefended wealth.",
+    "Author": "Ernest Hemingway",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 243,
+    "Quotes": "Therefore if a man look sharply and attentively, he shall see Fortune;for though she be blind, yet she is not invisible.",
+    "Author": "Francis Bacon",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 251,
+    "Quotes": "There is a wisdom in this beyond the rules of physic: a man's own observation what he finds good of and what he finds hurt of is the best physic to preserve health.",
+    "Author": "Francis Bacon",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 308,
+    "Quotes": "A prudent question is one-half of wisdom.",
+    "Author": "Francis Bacon",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 645,
+    "Quotes": "It's the height of folly to want to be the only wise one.",
+    "Author": "Francois de La Rochefoucauld",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 992,
+    "Quotes": "The only thing that should surprise us is that there are still some things that can surprise us.",
+    "Author": "Francois de La Rochefoucauld",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 996,
+    "Quotes": "A wise man thinks it more advantageous not to join the battle than to win.",
+    "Author": "Francois de La Rochefoucauld",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 997,
+    "Quotes": "He who lives without folly isn't so wise as he thinks.",
+    "Author": "Francois de La Rochefoucauld",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1000,
+    "Quotes": "It's easier to be wise for others than for ourselves.",
+    "Author": "Francois de La Rochefoucauld",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1005,
+    "Quotes": "Too great haste to repay an obligation is a kind of ingratitude.",
+    "Author": "Francois de La Rochefoucauld",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 526,
+    "Quotes": "In the last analysis, even the best man is evil: in the last analysis, even the best woman is bad.",
+    "Author": "Friedrich Nietzsche",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 796,
+    "Quotes": "Before the effect one believes in different causes than one does after the effect.",
+    "Author": "Friedrich Nietzsche",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 187,
+    "Quotes": "England and America are two countries separated by the same language.",
+    "Author": "George Bernard Shaw",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 818,
+    "Quotes": "The golden rule is that there are no golden rules.",
+    "Author": "George Bernard Shaw",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 823,
+    "Quotes": "Power does not corrupt men;fools, however, if they get into a position of power, corrupt power.",
+    "Author": "George Bernard Shaw",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1877,
+    "Quotes": "That's what a man wants in a wife, mostly;he wants to make sure one fool tells him he's wise.",
+    "Author": "George Eliot",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 578,
+    "Quotes": "You can't build a reputation on what you are going to do.",
+    "Author": "Henry Ford",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1414,
+    "Quotes": "Capital punishment is as fundamentally wrong as a cure for crime as charity is wrong as a cure for poverty.",
+    "Author": "Henry Ford",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 407,
+    "Quotes": "A mother who is really a mother is never free.",
+    "Author": "Honore de Balzac",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 2008,
+    "Quotes": "A woman should never be seen eating or drinking, unless it be lobster salad and Champagne, the only true feminine and becoming viands.",
+    "Author": "Lord Byron",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 956,
+    "Quotes": "Loyalty to the country always. Loyalty to the government when it deserves it.",
+    "Author": "Mark Twain",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 967,
+    "Quotes": "Nothing so needs reforming as other people's habits.",
+    "Author": "Mark Twain",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 572,
+    "Quotes": "Perfect reason flees all extremity, and leads one to be wise with sobriety.",
+    "Author": "Moliere",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 891,
+    "Quotes": "People of quality know everything without ever having learned anything.",
+    "Author": "Moliere",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 511,
+    "Quotes": "Bigamy is having one wife too many. Monogamy is the same.",
+    "Author": "Oscar Wilde",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 911,
+    "Quotes": "Everything you can imagine is real.",
+    "Author": "Pablo Picasso",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1350,
+    "Quotes": "Computers are useless. They can only give you answers.",
+    "Author": "Pablo Picasso",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 303,
+    "Quotes": "I never say I am a guru.",
+    "Author": "Paulo Coelho",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 759,
+    "Quotes": "Silence is better than unmeaning words.",
+    "Author": "Pitagora",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 899,
+    "Quotes": "The most important part of education is proper training in the nursery.",
+    "Author": "Plato",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 900,
+    "Quotes": "He was a wise man who invented beer.",
+    "Author": "Plato",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1023,
+    "Quotes": "Democracy passes into despotism.",
+    "Author": "Plato",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1315,
+    "Quotes": "The wisest have the most authority.",
+    "Author": "Plato",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1427,
+    "Quotes": "There's a victory, and defeat;the first and best of victories, the lowest and worst of defeats which each man gains or sustains at the hands not of another, but of himself.",
+    "Author": "Plato",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1442,
+    "Quotes": "The punishment which the wise suffer who refuse to take part in the government, is to live under the government of worse men.",
+    "Author": "Plato",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1855,
+    "Quotes": "A hero is born among a hundred, a wise man is found among a thousand, but an accomplished one might not be found even among a hundred thousand men.",
+    "Author": "Plato",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1857,
+    "Quotes": "Wise men speak because they have something to say;Fools because they have to say something.",
+    "Author": "Plato",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 555,
+    "Quotes": "Strong and bitter words indicate a weak cause.",
+    "Author": "Victor Hugo",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 556,
+    "Quotes": "The wise man does not grow old, but ripens.",
+    "Author": "Victor Hugo",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 952,
+    "Quotes": "He is a hard man who is only just, and a sad one who is only wise.",
+    "Author": "Voltaire",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 955,
+    "Quotes": "He who is not just is severe, he who is not wise is sad.",
+    "Author": "Voltaire",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1046,
+    "Quotes": "Is there anyone so wise as to learn by the experience of others?",
+    "Author": "Voltaire",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 702,
+    "Quotes": "If the fool would persist in his folly he would become wise.",
+    "Author": "William Blake",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 703,
+    "Quotes": "A fool sees not the same tree that a wise man sees.",
+    "Author": "William Blake",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 658,
+    "Quotes": "Having nothing, nothing can he lose.",
+    "Author": "William Shakespeare",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 780,
+    "Quotes": "Listen to many, speak to a few.",
+    "Author": "William Shakespeare",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 786,
+    "Quotes": "Let no such man be trusted.",
+    "Author": "William Shakespeare",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1089,
+    "Quotes": "Let me embrace thee, sour adversity, for wise men say it is the wisest course.",
+    "Author": "William Shakespeare",
+    "Category": "WISDOM"
+  },
+  {
+    "ID": 1640,
+    "Quotes": "Modest doubt is called the beacon of the wise.",
+    "Author": "William Shakespeare",
+    "Category": "WISDOM"
+  }
+]

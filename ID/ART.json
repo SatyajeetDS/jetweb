@@ -1,0 +1,344 @@
+[
+  {
+    "ID": 92,
+    "Quotes": "Without culture, and the relative freedom it implies, society, even when perfect, is but a jungle. This is why any authentic creation is a gift to the future.",
+    "Author": "Albert Camus",
+    "Category": "ART"
+  },
+  {
+    "ID": 108,
+    "Quotes": "Culture: the cry of men in face of their destiny.",
+    "Author": "Albert Camus",
+    "Category": "ART"
+  },
+  {
+    "ID": 9,
+    "Quotes": "After your death you will be what you were before your birth.",
+    "Author": "Arthur Schopenhauer",
+    "Category": "ART"
+  },
+  {
+    "ID": 67,
+    "Quotes": "Movies are a fad. Audiences really want to see live actors on a stage.",
+    "Author": "Charlie Chaplin",
+    "Category": "ART"
+  },
+  {
+    "ID": 2079,
+    "Quotes": "We're going to shoot one Polaroid per show. I'm going to sign this before it even develops because I know that once it develops with my signature on it, it's worth a fortune. I'll make this a work of magic warlock art.",
+    "Author": "Charlie Sheen",
+    "Category": "ART"
+  },
+  {
+    "ID": 2033,
+    "Quotes": "Even in literature and art, no man who bothers about originality will ever be original: whereas if you simply try to tell the truth (without caring twopence how often it has been told before) you will, nine times out of ten, become original without ever having noticed it.",
+    "Author": "Clive Staples Lewis",
+    "Category": "ART"
+  },
+  {
+    "ID": 582,
+    "Quotes": "Personal columnists are jackals and no jackal has been known to live on grass once he had learned about meat - no matter who killed the meat for him.",
+    "Author": "Ernest Hemingway",
+    "Category": "ART"
+  },
+  {
+    "ID": 1015,
+    "Quotes": "Prose is architecture, not interior decoration, and the Baroque is over.",
+    "Author": "Ernest Hemingway",
+    "Category": "ART"
+  },
+  {
+    "ID": 1296,
+    "Quotes": "Cowardice... is almost always simply a lack of ability to suspend functioning of the imagination.",
+    "Author": "Ernest Hemingway",
+    "Category": "ART"
+  },
+  {
+    "ID": 1404,
+    "Quotes": "That terrible mood of depression of whether it's any good or not is what is known as The Artist's Reward.",
+    "Author": "Ernest Hemingway",
+    "Category": "ART"
+  },
+  {
+    "ID": 309,
+    "Quotes": "The job of the artist is always to deepen the mystery.",
+    "Author": "Francis Bacon",
+    "Category": "ART"
+  },
+  {
+    "ID": 1565,
+    "Quotes": "Tricks you need to transform something which appears fantastic, unbelievable into something plausible, credible, those I learned from journalism. The key is to tell it straight. It is done by reporters and by country folk.",
+    "Author": "Gabriel Jose Garcia Marquez",
+    "Category": "ART"
+  },
+  {
+    "ID": 1574,
+    "Quotes": "Fiction was invented the day Jonas arrived home and told his wife that he was three days late because he had been swallowed by a whale.",
+    "Author": "Gabriel Jose Garcia Marquez",
+    "Category": "ART"
+  },
+  {
+    "ID": 445,
+    "Quotes": "It's easier to replace a dead man than a good picture.",
+    "Author": "George Bernard Shaw",
+    "Category": "ART"
+  },
+  {
+    "ID": 1134,
+    "Quotes": "Which painting in the National Gallery would I save if there was a fire? The one nearest the door of course.",
+    "Author": "George Bernard Shaw",
+    "Category": "ART"
+  },
+  {
+    "ID": 913,
+    "Quotes": "Our words have wings, but fly not where we would.",
+    "Author": "George Eliot",
+    "Category": "ART"
+  },
+  {
+    "ID": 1813,
+    "Quotes": "The great enemy of clear language is insincerity. When there is a gap between one's real and one's declared aims, one turns, as it were, instinctively to long words and exhausted idioms, like a cuttlefish squirting out ink.",
+    "Author": "George Orwell",
+    "Category": "ART"
+  },
+  {
+    "ID": 634,
+    "Quotes": "Quote me as saying I was mis-quoted.",
+    "Author": "Groucho Marx",
+    "Category": "ART"
+  },
+  {
+    "ID": 926,
+    "Quotes": "Humor is reason gone mad.",
+    "Author": "Groucho Marx",
+    "Category": "ART"
+  },
+  {
+    "ID": 1932,
+    "Quotes": "I didn't like the play, but then I saw it under adverse conditions - the curtain was up.",
+    "Author": "Groucho Marx",
+    "Category": "ART"
+  },
+  {
+    "ID": 565,
+    "Quotes": "Any colour - so long as it's black.",
+    "Author": "Henry Ford",
+    "Category": "ART"
+  },
+  {
+    "ID": 295,
+    "Quotes": "Nothing is more fearful than imagination without taste.",
+    "Author": "Johann Wolfgang von Goethe",
+    "Category": "ART"
+  },
+  {
+    "ID": 964,
+    "Quotes": "Never pick a fight with people who buy ink by the barrel.",
+    "Author": "Mark Twain",
+    "Category": "ART"
+  },
+  {
+    "ID": 1512,
+    "Quotes": "Words are only painted fire;a look is the fire itself.",
+    "Author": "Mark Twain",
+    "Category": "ART"
+  },
+  {
+    "ID": 1519,
+    "Quotes": "The public is the only critic whose opinion is worth anything at all.",
+    "Author": "Mark Twain",
+    "Category": "ART"
+  },
+  {
+    "ID": 475,
+    "Quotes": "Culture is perishing in overproduction, in an avalanche of words, in the madness of quantity.",
+    "Author": "Milan Kundera",
+    "Category": "ART"
+  },
+  {
+    "ID": 890,
+    "Quotes": "Of all the noises known to man, opera is the most expensive.",
+    "Author": "Moliere",
+    "Category": "ART"
+  },
+  {
+    "ID": 1560,
+    "Quotes": "The typewriting machine, when played with expression, is no more annoying than the piano when played by a sister or near relation.",
+    "Author": "Oscar Wilde",
+    "Category": "ART"
+  },
+  {
+    "ID": 910,
+    "Quotes": "The chief enemy of creativity is \"good\" sense.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1032,
+    "Quotes": "Good artists copy, great artists steal.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1038,
+    "Quotes": "My mother said to me, 'If you are a soldier, you will become a general. If you are a monk, you will become the Pope.' Instead, I was a painter, and became Picasso.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1323,
+    "Quotes": "Sculpture is the best comment that a painter can make on painting.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1351,
+    "Quotes": "I paint objects as I think them, not as I see them.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1352,
+    "Quotes": "Are we to paint what's on the face, what's inside the face, or what's behind it?",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1869,
+    "Quotes": "When you start with a portrait and search for a pure form, a clear volume, through successive eliminations, you arrive inevitably at the egg. Likewise, starting with the egg and following the same process in reverse, one finishes with the portrait.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1870,
+    "Quotes": "Why do two colors, put one next to the other, sing? Can one really explain this? no. Just as one can never learn how to paint.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1871,
+    "Quotes": "What might be taken for a precocious genius is the genius of childhood. When the child grows up, it disappears without a trace. It may happen that this boy will become a real painter some day, or even a great painter. But then he will have to begin everything again, from zero.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1873,
+    "Quotes": "One does a whole painting for one peach and people think just the opposite - that particular peach is but a detail.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1874,
+    "Quotes": "All children are artists. The problem is how to remain an artist once he grows up.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1879,
+    "Quotes": "What is a face, really? Its own photo? Its make-up? Or is it a face as painted by such or such painter? That which is in front? Inside? Behind? And the rest? Doesn't everyone look at himself in his own particular way? Deformations simply do not exist.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1880,
+    "Quotes": "The world today doesn't make sense, so why should I paint pictures that do?",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 1881,
+    "Quotes": "Painting is a blind man's profession. He paints not what he sees, but what he feels, what he tells himself about what he has seen.",
+    "Author": "Pablo Picasso",
+    "Category": "ART"
+  },
+  {
+    "ID": 661,
+    "Quotes": "I'd have stopped writing years ago if it were for the money.",
+    "Author": "Paulo Coelho",
+    "Category": "ART"
+  },
+  {
+    "ID": 706,
+    "Quotes": "Libraries raised me.",
+    "Author": "Ray Bradbury",
+    "Category": "ART"
+  },
+  {
+    "ID": 2087,
+    "Quotes": "Take care to sell your horse before he dies. The art of life is passing losses on.",
+    "Author": "Robert Frost",
+    "Category": "ART"
+  },
+  {
+    "ID": 1387,
+    "Quotes": "Taste cannot be controlled by law.",
+    "Author": "Thomas Jefferson",
+    "Category": "ART"
+  },
+  {
+    "ID": 945,
+    "Quotes": "I put a Phrygian cap on the old dictionary.",
+    "Author": "Victor Hugo",
+    "Category": "ART"
+  },
+  {
+    "ID": 1252,
+    "Quotes": "Language is wine upon the lips.",
+    "Author": "Virginia Woolf",
+    "Category": "ART"
+  },
+  {
+    "ID": 1796,
+    "Quotes": "A masterpiece is something said once and for all, stated, finished, so that it's there complete in the mind, if only at the back.",
+    "Author": "Virginia Woolf",
+    "Category": "ART"
+  },
+  {
+    "ID": 954,
+    "Quotes": "All styles are good except the tiresome kind.",
+    "Author": "Voltaire",
+    "Category": "ART"
+  },
+  {
+    "ID": 1049,
+    "Quotes": "The public is a ferocious beast;one must either chain it or flee from it.",
+    "Author": "Voltaire",
+    "Category": "ART"
+  },
+  {
+    "ID": 2046,
+    "Quotes": "I am not influenced by the techniques or fashions of any other motion picture company.",
+    "Author": "Walt Disney",
+    "Category": "ART"
+  },
+  {
+    "ID": 2047,
+    "Quotes": "Disneyland is the star, everything else is in the supporting role.",
+    "Author": "Walt Disney",
+    "Category": "ART"
+  },
+  {
+    "ID": 2054,
+    "Quotes": "Animation offers a medium of story telling and visual entertainment which can bring pleasure and information to people of all ages everywhere in the world.",
+    "Author": "Walt Disney",
+    "Category": "ART"
+  },
+  {
+    "ID": 2062,
+    "Quotes": "Animation can explain whatever the mind of man can conceive. This facility makes it the most versatile and explicit means of communication yet devised for quick mass appreciation.",
+    "Author": "Walt Disney",
+    "Category": "ART"
+  },
+  {
+    "ID": 785,
+    "Quotes": "He does it with better grace, but I do it more natural.",
+    "Author": "William Shakespeare",
+    "Category": "ART"
+  },
+  {
+    "ID": 1618,
+    "Quotes": "I see that the fashion wears out more apparel than the man.",
+    "Author": "William Shakespeare",
+    "Category": "ART"
+  }
+]

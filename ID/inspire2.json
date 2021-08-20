@@ -1,0 +1,502 @@
+[
+    {
+        "ID": 2438,
+        "Quotes": "The flower that smells the sweetest is shy and lowly…",
+        "Author": "William Wordsworth"
+    },
+    {
+        "ID": 2439,
+        "Quotes": "Seize the moments of happiness, love and be loved! That is the only reality in the world…",
+        "Author": "Leo Tolstoy"
+    },
+    {
+        "ID": 2440,
+        "Quotes": "Relationships are based on four principles: respect, understanding, acceptance and appreciation…",
+        "Author": "Mahatma Gandhi"
+    },
+    {
+        "ID": 2441,
+        "Quotes": "Every experience, no matter how bad it seems, holds within it a blessing of some kind. The goal is to find it…",
+        "Author": "Gautama The Lord Buddha"
+    },
+    {
+        "ID": 2442,
+        "Quotes": "Don't judge each day by the harvest you reap but by the seeds that you plant…",
+        "Author": "Robert Louis Stevenson"
+    },
+    {
+        "ID": 2443,
+        "Quotes": "Everything you say should be true, but not everything true should be said…",
+        "Author": "Voltaire"
+    },
+    {
+        "ID": 2444,
+        "Quotes": "One who believes in himself has no need to convince others…",
+        "Author": "Laozi"
+    },
+    {
+        "ID": 2445,
+        "Quotes": "No man truly has joy unless he lives in love…",
+        "Author": "St. Thomas Aquinas"
+    },
+    {
+        "ID": 2446,
+        "Quotes": "By failing to prepare, you are preparing to fail…",
+        "Author": "Benjamin Franklin"
+    },
+    {
+        "ID": 2447,
+        "Quotes": "Do not judge yourself harshly. Without mercy for ourselves we cannot love the world…",
+        "Author": "Gautama The Lord Buddha"
+    },
+    {
+        "ID": 2448,
+        "Quotes": "The only thing more dangerous than ignorance is arrogance…",
+        "Author": "Albert Einstein"
+    },
+    {
+        "ID": 2449,
+        "Quotes": "It is better to act and repent than not to act and regret…",
+        "Author": "Niccolo Machiavelli"
+    },
+    {
+        "ID": 2450,
+        "Quotes": "Hope is nature's veil for hiding truth's nakedness…",
+        "Author": "Alfred Nobel"
+    },
+    {
+        "ID": 2451,
+        "Quotes": "All truths are easy to understand once they are discovered;the point is to discover them…",
+        "Author": "Galileo Galilei"
+    },
+    {
+        "ID": 2452,
+        "Quotes": "What we know is a drop, what we don't know is an ocean…",
+        "Author": "Isaac Newton"
+    },
+    {
+        "ID": 2453,
+        "Quotes": "Patience is the strength of the weak, impatience is the weakness of the strong…",
+        "Author": "Immanuel Kant"
+    },
+    {
+        "ID": 2454,
+        "Quotes": "A cold and moist brain is an inseparable companion to folly…",
+        "Author": "Galen"
+    },
+    {
+        "ID": 2455,
+        "Quotes": "The happiness of your life depends upon the quality of your thoughts…",
+        "Author": "Marcus Aurelius"
+    },
+    {
+        "ID": 2456,
+        "Quotes": "A great man is hard on himself;a small man is hard on others…",
+        "Author": "Confucius"
+    },
+    {
+        "ID": 2457,
+        "Quotes": "The less you have, the less you have to worry about…",
+        "Author": "Gautama The Lord Buddha"
+    },
+    {
+        "ID": 2458,
+        "Quotes": "Have more than you show, speak less than you know…",
+        "Author": "William Shakespeare"
+    },
+    {
+        "ID": 2459,
+        "Quotes": "You should never be ashamed to admit you have been wrong. It only proves you are wiser today than yesterday…",
+        "Author": "Jonathan Swift"
+    },
+    {
+        "ID": 2460,
+        "Quotes": "A very little key will open a very heavy door…",
+        "Author": "Charles Dickens"
+    },
+    {
+        "ID": 2461,
+        "Quotes": "What happens is not as important as how you react to what happens…",
+        "Author": "Ellen Glasgow"
+    },
+    {
+        "ID": 2462,
+        "Quotes": "Dogs are better than human beings because they know but do not tell…",
+        "Author": "Emily Dickinson"
+    },
+    {
+        "ID": 2463,
+        "Quotes": "He who has health, has hope;and he who has hope, has everything…",
+        "Author": "Thomas Carlyle"
+    },
+    {
+        "ID": 2464,
+        "Quotes": "Make money your god, and it will plague you like the devil…",
+        "Author": "Henry Fielding"
+    },
+    {
+        "ID": 2465,
+        "Quotes": "Doubt everything. Find your own light…",
+        "Author": "Gautama The Lord Buddha"
+    },
+    {
+        "ID": 2466,
+        "Quotes": "Take a chance and you may lose. Take not a chance and you have lost already…",
+        "Author": "Soren Kierkegaard"
+    },
+    {
+        "ID": 2467,
+        "Quotes": "Don't educate your children to be rich. Educate them to be happy, so they know the value of things, not the price…",
+        "Author": "Victor Hugo"
+    },
+    {
+        "ID": 2468,
+        "Quotes": "A man who fears suffering is already suffering from what he fears…",
+        "Author": "Michel de Montaigne"
+    },
+    {
+        "ID": 2469,
+        "Quotes": "We do not describe the world we see, we see the world we can describe…",
+        "Author": "Rene Descartes"
+    },
+    {
+        "ID": 2470,
+        "Quotes": "You can be pleased with nothing if you are not pleased with yourself…",
+        "Author": "Mary Wortley Montagu"
+    },
+    {
+        "ID": 2471,
+        "Quotes": "Keep your face always toward the sunshine – and shadows will fall behind you…",
+        "Author": "Walt Whitman"
+    },
+    {
+        "ID": 2472,
+        "Quotes": "Every step we take on earth brings us to a new world…",
+        "Author": "Federico García Lorca"
+    },
+    {
+        "ID": 2473,
+        "Quotes": "You cannot escape the responsibility of tomorrow by evading it today…",
+        "Author": "Abraham Lincoln"
+    },
+    {
+        "ID": 2474,
+        "Quotes": "I know that I am intelligent, because I know that I know nothing…",
+        "Author": "Socrates"
+    },
+    {
+        "ID": 2475,
+        "Quotes": "A hero is the one who does what he can…",
+        "Author": "Romain Rolland"
+    },
+    {
+        "ID": 2476,
+        "Quotes": "A Persons tongue can give you the taste of his heart…",
+        "Author": "Ibn Qayyim Al Jawziyyah"
+    },
+    {
+        "ID": 2477,
+        "Quotes": "We do not really think, we are barely conscious, until something goes wrong…",
+        "Author": "Charles Sanders Peirce"
+    },
+    {
+        "ID": 2478,
+        "Quotes": "If you can't live alone, you were born a slave…",
+        "Author": "Fernando Pessoa"
+    },
+    {
+        "ID": 2479,
+        "Quotes": "Give a man a fish and you feed him for a day;teach a man to fish and you feed him for a lifetime…",
+        "Author": "Maimonides"
+    },
+    {
+        "ID": 2480,
+        "Quotes": "We can complain because rose bushes have thorns or rejoice because thorn bushes have roses…",
+        "Author": "Abraham Lincoln"
+    },
+    {
+        "ID": 2481,
+        "Quotes": "See all living beings as your father or mother, and love them as if you were their child…",
+        "Author": "Atisa"
+    },
+    {
+        "ID": 2482,
+        "Quotes": "Take what you need, do what you should, you will get what you want…",
+        "Author": "Gottfried Leibniz"
+    },
+    {
+        "ID": 2483,
+        "Quotes": "You can easily judge the character of a man by how he treats those who can do nothing for him…",
+        "Author": "Johann Wolfgang von Goethe"
+    },
+    {
+        "ID": 2484,
+        "Quotes": "After the verb “to love”, “to help” is the most beautiful verb in the world…",
+        "Author": "Bertha von Suttner"
+    },
+    {
+        "ID": 2485,
+        "Quotes": "A bottle of wine contains more philosophy than all the books in the world…",
+        "Author": "Louis Pasteur"
+    },
+    {
+        "ID": 2486,
+        "Quotes": "If the first button of one's coat is wrongly buttoned, all the rest will be crooked…",
+        "Author": "Giordano Bruno"
+    },
+    {
+        "ID": 2487,
+        "Quotes": "Conquer yourself rather than the world…",
+        "Author": "Rene Descartes"
+    },
+    {
+        "ID": 2488,
+        "Quotes": "Change is never painful. Only the resistance to change is painful…",
+        "Author": "Gautama The Lord Buddha"
+    },
+    {
+        "ID": 2489,
+        "Quotes": "It's not what happens to you, but how you react to it that matters…",
+        "Author": "Epictetus"
+    },
+    {
+        "ID": 2490,
+        "Quotes": "The good we do today becomes the happiness of tomorrow…",
+        "Author": "William James"
+    },
+    {
+        "ID": 2491,
+        "Quotes": "Those who understand others are clever, those who understand themselves are wise…",
+        "Author": "Lao Tzu"
+    },
+    {
+        "ID": 2492,
+        "Quotes": "Follow your path, and let the people talk…",
+        "Author": "Dante Alighieri"
+    },
+    {
+        "ID": 2493,
+        "Quotes": "Never trust your tongue when your heart is bitter…",
+        "Author": "Samuel Johnson"
+    },
+    {
+        "ID": 2494,
+        "Quotes": "Anything one man can imagine, other men can make real…",
+        "Author": "Jules Verne"
+    },
+    {
+        "ID": 2495,
+        "Quotes": "Silence is the best response to a fool…",
+        "Author": "Elizabeth Barrett Browning"
+    },
+    {
+        "ID": 2496,
+        "Quotes": "The only person you are destined to become is the person you decide to be…",
+        "Author": "Ralph Waldo Emerson"
+    },
+    {
+        "ID": 2497,
+        "Quotes": "Our deeds determine us, as much as we determine our deeds…",
+        "Author": "George Eliot"
+    },
+    {
+        "ID": 2498,
+        "Quotes": "Nearly all men can stand adversity, but if you want to test a man's character, give him power…",
+        "Author": "Abraham Lincoln"
+    },
+    {
+        "ID": 2499,
+        "Quotes": "Falling down is not a failure. Failure comes when you stay where you have fallen…",
+        "Author": "Socrates"
+    },
+    {
+        "ID": 2500,
+        "Quotes": "The production of too many useful things results in too many useless people…",
+        "Author": "Karl Marx"
+    },
+    {
+        "ID": 2501,
+        "Quotes": "Beauty without intelligence is like a hook without bait…",
+        "Author": "Moliere"
+    },
+    {
+        "ID": 2502,
+        "Quotes": "Man is born free, and everywhere he is in chains…",
+        "Author": "Jean-Jacques Rousseau"
+    },
+    {
+        "ID": 2503,
+        "Quotes": "A man who dares to waste one hour of time has not discovered the value of life…",
+        "Author": "Charles Darwin"
+    },
+    {
+        "ID": 2504,
+        "Quotes": "I think a bad husband is far worse than no husband…",
+        "Author": "Margaret Cavendish"
+    },
+    {
+        "ID": 2505,
+        "Quotes": "Success is not something to wait for, it is something to work for…",
+        "Author": "Henry Wadsworth Longfellow"
+    },
+    {
+        "ID": 2506,
+        "Quotes": "The achievement of one goal should be the starting point of another…",
+        "Author": "Alexander Graham Bell"
+    },
+    {
+        "ID": 2507,
+        "Quotes": "Believe only half of what you see and nothing that you hear…",
+        "Author": "Edgar Allan Poe"
+    },
+    {
+        "ID": 2508,
+        "Quotes": "It is difficult to find happiness within oneself, but it is impossible to find it anywhere else…",
+        "Author": "Arthur Schopenhauer"
+    },
+    {
+        "ID": 2509,
+        "Quotes": "Our greatest glory is not in never falling, but in rising every time we fall…",
+        "Author": "Confucius"
+    },
+    {
+        "ID": 2510,
+        "Quotes": "Happiness will never come to those who fail to appreciate what they already have…",
+        "Author": "Gautama The Lord Buddha"
+    },
+    {
+        "ID": 2511,
+        "Quotes": "Wise men speak because they have something to say;Fools because they have to say something…",
+        "Author": "Plato"
+    },
+    {
+        "ID": 2512,
+        "Quotes": "Kindness is the language which the deaf can hear and the blind can see…",
+        "Author": "Mark Twain"
+    },
+    {
+        "ID": 2513,
+        "Quotes": "Life is like a cup of tea, the sugar is all at the bottom!…",
+        "Author": "Julia Ward Howe"
+    },
+    {
+        "ID": 2514,
+        "Quotes": "Our greatest ability as humans is not to change the world;but to change ourselves…",
+        "Author": "Mahatma Gandhi"
+    },
+    {
+        "ID": 2515,
+        "Quotes": "Go wisely and slowly. Those who rush stumble and fall…",
+        "Author": "William Shakespeare"
+    },
+    {
+        "ID": 2516,
+        "Quotes": "Think for yourself, or others will think for you without thinking of you…",
+        "Author": "Henry David Thoreau"
+    },
+    {
+        "ID": 2517,
+        "Quotes": "Be less curious about people and more curious about ideas…",
+        "Author": "Marie Curie"
+    },
+    {
+        "ID": 2518,
+        "Quotes": "Do not learn how to react. Learn how to respond…",
+        "Author": "Gautama The Lord Buddha"
+    },
+    {
+        "ID": 2519,
+        "Quotes": "Educating the mind without educating the heart is no education at all…",
+        "Author": "Aristotle"
+    },
+    {
+        "ID": 2520,
+        "Quotes": "Belief begins where science leaves off and ends where science begins…",
+        "Author": "Rudolf Virchow"
+    },
+    {
+        "ID": 2521,
+        "Quotes": "Bad company ruins good morals…",
+        "Author": "Paul the Apostle"
+    },
+    {
+        "ID": 2522,
+        "Quotes": "In the small matters trust the mind, in the large ones the heart…",
+        "Author": "Sigmund Freud"
+    },
+    {
+        "ID": 2523,
+        "Quotes": "My language is the sum total of myself…",
+        "Author": "Charles Sanders Peirce"
+    },
+    {
+        "ID": 2524,
+        "Quotes": "My powers are ordinary. Only my application brings me success…",
+        "Author": "Isaac Newton"
+    },
+    {
+        "ID": 2525,
+        "Quotes": "The childhood shows the man, as morning shows the day…",
+        "Author": "John Milton"
+    },
+    {
+        "ID": 2526,
+        "Quotes": "In every picture there should be shade as well as light…",
+        "Author": "James Boswell"
+    },
+    {
+        "ID": 2527,
+        "Quotes": "Where the road bends abruptly, take short steps…",
+        "Author": "Ernest Bramah"
+    },
+    {
+        "ID": 2528,
+        "Quotes": "Either define the moment or the moment will define you…",
+        "Author": "Walt Whitman"
+    },
+    {
+        "ID": 2529,
+        "Quotes": "The best portion of a good man's life: his little, nameless unremembered acts of kindness and love…",
+        "Author": "William Wordsworth"
+    },
+    {
+        "ID": 2530,
+        "Quotes": "The best men are not consistent in good – why should the worst men be consistent in evil…",
+        "Author": "Wilkie Collins"
+    },
+    {
+        "ID": 2531,
+        "Quotes": "If your past is limited, your future is boundless…",
+        "Author": "Franklin Pierce"
+    },
+    {
+        "ID": 2532,
+        "Quotes": "There are two different types of people in the world, those who want to know, and those who want to believe…",
+        "Author": "Friedrich Nietzsche"
+    },
+    {
+        "ID": 2533,
+        "Quotes": "Talent hits a target no one else can hit. Genius hits a target no one else can see…",
+        "Author": "Arthur Schopenhauer"
+    },
+    {
+        "ID": 2534,
+        "Quotes": "If you want to make life easy, make it hard…",
+        "Author": "Johann Wolfgang von Goethe"
+    },
+    {
+        "ID": 2535,
+        "Quotes": "The first and the best victory is to conquer self…",
+        "Author": "Plato"
+    },
+    {
+        "ID": 2536,
+        "Quotes": "It is not the germs we need worry about. It is our inner terrain…",
+        "Author": "Louis Pasteur"
+    },
+    {
+        "ID": 2537,
+        "Quotes": "All life is temporary. Why worry about anything that's only temporary?…",
+        "Author": "Gautama The Lord Buddha"
+    }
+]
